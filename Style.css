@@ -122,22 +122,25 @@ section {
   div {
     margin: auto;
     width: 90%;
+    position: relative;
   }
 
   @media only screen and (min-width: 650px) {
     div {
         margin: auto;
-        width: 55%;
+        width: 65%;
       }
 
       section {
         margin: auto;
-        width: 55%;
+        width: 65%;
       }
 
   }
 
   @media only screen and (min-width: 1025px) {
+    
+
     div {
         margin: auto;
         width: 85%;
